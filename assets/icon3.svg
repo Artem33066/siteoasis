@@ -1,0 +1,7 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.000000" height="32.000000" fill="none">
+	<rect id="Frame" width="32.000000" height="32.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<path id="Vector" d="M10.6666 18.6666C6.24835 18.6666 2.66663 15.0849 2.66663 10.6666C2.66663 6.24835 6.24835 2.66663 10.6666 2.66663C15.0849 2.66663 18.6666 6.24835 18.6666 10.6666C18.6666 15.0849 15.0849 18.6666 10.6666 18.6666Z" stroke="rgb(131,135,143)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.66666675" />
+	<path id="Vector" d="M24.12 13.8267C25.3804 14.2966 26.5019 15.0767 27.381 16.0949C28.26 17.1131 28.868 18.3366 29.1489 19.6521C29.4298 20.9676 29.3745 22.3327 28.988 23.6211C28.6015 24.9096 27.8964 26.0798 26.9379 27.0235C25.9793 27.9672 24.7982 28.654 23.5039 29.0203C22.2096 29.3866 20.8438 29.4207 19.5329 29.1193C18.2219 28.8179 17.0081 28.1908 16.0037 27.296C14.9993 26.4012 14.2368 25.2676 13.7866 24" fill-rule="nonzero" stroke="rgb(131,135,143)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.66666675" />
+	<path id="Vector" d="M9.33337 8L10.6667 8L10.6667 13.3333" fill-rule="nonzero" stroke="rgb(131,135,143)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.66666675" />
+	<path id="Vector" d="M22.28 18.5067L23.2134 19.4534L19.4534 23.2134" fill-rule="nonzero" stroke="rgb(131,135,143)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.66666675" />
+</svg>
